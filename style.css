@@ -34,6 +34,7 @@ h3 {
     top: 37%;
     border-radius: 20px;
     opacity: 0.2;
+    margin-top: 10%;
 }
 .wolf {
     width: 100%;
@@ -42,4 +43,5 @@ h3 {
     top: 33%;
     animation-duration: 4s;
     animation-delay: 3s;
+    margin-top: 10%;
 }
